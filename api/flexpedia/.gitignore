@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+## tirando as senhas do BD ##
+application.properties

@@ -4,6 +4,10 @@
 # Log file
 *.log
 
+# textos de cointextualizacao
+Contexto do projeto FlexPedia.txt
+
+
 # BlueJ files
 *.ctxt
 
